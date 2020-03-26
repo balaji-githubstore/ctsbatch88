@@ -8,6 +8,7 @@ interface WebDriver123
 
 interface TakeScreenshot
 {
+	//hello
 	void getScreenshot();
 }
 
